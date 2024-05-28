@@ -7,6 +7,7 @@ import console
 import inspect
 import pep8
 import unittest
+import test_console
 HBNBCommand = console.HBNBCommand
 
 
